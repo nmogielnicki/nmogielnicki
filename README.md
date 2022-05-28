@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @nmogielnicki
+- 👋 Hi, I’m Nick Mogielnicki
 - 👀 I’m interested in ios and Mac OS development
 - 🌱 I’m currently learning Swift
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on all things Swift.
 - 📫 How to reach me nmogielnicki@gmail.com
 
 <!---
